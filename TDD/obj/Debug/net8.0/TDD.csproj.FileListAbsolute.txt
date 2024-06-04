@@ -1,0 +1,14 @@
+D:\Courses\.NET - AVANADE - C# TDD\TDD\bin\Debug\net8.0\TDD.exe
+D:\Courses\.NET - AVANADE - C# TDD\TDD\bin\Debug\net8.0\TDD.deps.json
+D:\Courses\.NET - AVANADE - C# TDD\TDD\bin\Debug\net8.0\TDD.runtimeconfig.json
+D:\Courses\.NET - AVANADE - C# TDD\TDD\bin\Debug\net8.0\TDD.dll
+D:\Courses\.NET - AVANADE - C# TDD\TDD\bin\Debug\net8.0\TDD.pdb
+D:\Courses\.NET - AVANADE - C# TDD\TDD\obj\Debug\net8.0\TDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\.NET - AVANADE - C# TDD\TDD\obj\Debug\net8.0\TDD.AssemblyInfoInputs.cache
+D:\Courses\.NET - AVANADE - C# TDD\TDD\obj\Debug\net8.0\TDD.AssemblyInfo.cs
+D:\Courses\.NET - AVANADE - C# TDD\TDD\obj\Debug\net8.0\TDD.csproj.CoreCompileInputs.cache
+D:\Courses\.NET - AVANADE - C# TDD\TDD\obj\Debug\net8.0\TDD.dll
+D:\Courses\.NET - AVANADE - C# TDD\TDD\obj\Debug\net8.0\refint\TDD.dll
+D:\Courses\.NET - AVANADE - C# TDD\TDD\obj\Debug\net8.0\TDD.pdb
+D:\Courses\.NET - AVANADE - C# TDD\TDD\obj\Debug\net8.0\TDD.genruntimeconfig.cache
+D:\Courses\.NET - AVANADE - C# TDD\TDD\obj\Debug\net8.0\ref\TDD.dll
