@@ -1,0 +1,19 @@
+﻿
+// Regras de negocio - XUnit - Calculator
+
+-- Refinamento Inicial
+
+	  Requisitos Funcionais RF
+	- SOMA
+	- SUBTRAÇÃO
+	- DIVISÃO
+	- MULTIPLICAÇÃO
+	- LOG DE OPERAÇÕES
+	
+      Requisitos Não Funcionais RNF
+	- NUMEROS INTEIROS
+	- 2 PARAMETROS POR OPERAÇÃO
+	- SEMPRE RETORNAR AS ULTIMAS TRES OPERAÇÕES DO LOG 
+
+
+	

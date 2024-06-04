@@ -1,0 +1,22 @@
+﻿
+// Dicas - Tdd XUnit;
+
+// Apos adicionar projeto Tdd sempre tenha o foco da opção adicionar solução
+pois se não o fizer no momento da cração, sera instaciado uma solução separada
+so projeto atual e ira instaciar um projeto de teste;
+
+Obs: Sempre adicione uma solução;
+
+-----------------------------------
+
+// Analise o cenario e adicione o ponto de referencia do seu projeto ao Xunit 
+pois ele apenas cria e adciona a solução, mas no quesito de clases isto tende ser 
+manual;
+
+// Nao codificar antes de ter codificado os teste - Observação;
+// Cuidado com metodos Assincronos, pois ele o terminar antes do primeiro teste- Dados compartilhados pode ser um ponto de Erro;
+
+// Validar erros, por exemplo Assert.Throws<DivideByZeroException>(() => calc.ToDivide(4,0));
+// Que neste caso este metodo esta tentado um divisao por zero, o que nao existe;
+
+// Validar Exceções -> Assert.Throws<Exceptions>(() => "função, metodo, valor");
